@@ -1,0 +1,1 @@
+Please first run Create_CIFAR_100_10_tasks_dataset.py to create the datset, then run main.py to reproduce the results for CIFAR-100.
